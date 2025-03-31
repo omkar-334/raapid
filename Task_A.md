@@ -36,16 +36,14 @@ sentences should be used as input to the model.
 |-----------|----------------|------------------|------------|
 | NLI       | 550,152        | 10,000           | 10,000     |
 
-## Dataset Link
+[Dataset Link](https://drive.google.com/file/d/14kplogWzU2JsIB04ENeLtgtYTt0kYyxU/view?usp=sharing)
 
-The dataset can be downloaded from
-[[here]{.underline}](https://drive.google.com/file/d/14kplogWzU2JsIB04ENeLtgtYTt0kYyxU/view?usp=sharing).
+## Evaluation metrics
 
-**[Evaluation metrics:]{.underline}** Accuracy and Macro average
-F1-score will be used as the evaluation metrics for this task.
+Accuracy and Macro average F1-score will be used as the evaluation metrics for this task.
 
 ## Submission guidelines
 
-[Every participant has to submit their scripts in a well structured
+Every participant has to submit their scripts in a well structured
 format. And, the submitted results should be easily reproduced from the
-scripts.]{.mark}
+scripts.
